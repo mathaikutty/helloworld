@@ -1,0 +1,8 @@
+/* 
+Add two Numbers
+*/
+
+let firstnumber = 5;
+const secondnumber = 18;
+var thirdnumber = 56;
+
