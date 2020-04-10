@@ -1,11 +1,16 @@
 /* 
-Add two Numbers
+various math operators
 */
 
 let a = 5;
 const b = 18;
+var c = 34;
+var d = a + b + c ;
+var e = a/b;
+var f = c*b;
+var g = c-b;
+console.log(d,e,f,g);
 
-c = a + b ;
-console.log(c);
+
 
 
